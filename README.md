@@ -1,3 +1,9 @@
+# Modifications
+
+The glyph length value was changed from the length of the vectors to the number of vector pairs to be
+compatible with my MicroPython TFT drivers as well as other small formatting changes. -- Russ Hughes.
+
+https://github.com/LingDong-/ttf2hershey Original README.md follows:
 
 # ttf2hershey
 
